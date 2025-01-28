@@ -1,0 +1,11 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: practica2-mod6
+spec:
+  template:
+    spec:
+      containers:
+        - image: docker.io/mitchcatg/mod6-p2:latest
+       
+             

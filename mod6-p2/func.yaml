@@ -1,0 +1,7 @@
+specVersion: 0.36.0
+name: mod6-p2
+runtime: node
+registry: docker.io/mitchcatg
+created: 2025-01-28T03:01:24.689148857Z
+build:
+  builder: pack
